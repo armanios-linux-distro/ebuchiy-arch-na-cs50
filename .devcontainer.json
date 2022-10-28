@@ -17,7 +17,7 @@
     "vsls-contrib.gitdoc"
   ],
   "name": "archlinux",
-  "image": "archlinux",
+  "image": "archlinux:latest",
   "postCreateCommand": "/opt/cs50/bin/postCreateCommand",
   "settings": {
     "C_Cpp.autocomplete": "Disabled",
